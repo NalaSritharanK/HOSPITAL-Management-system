@@ -66,6 +66,6 @@ To identify peak admission periods and support staffing and resource planning du
 
 Since Power BI Service publishing is not available, a complete dashboard walkthrough and development process is recorded and uploaded to Google Drive.
 
-Video Link: **PASTE YOUR GOOGLE DRIVE LINK HERE**
+Video Link: https://drive.google.com/file/d/1rMex8OIMZmoA2wqEtdUNZ8FJbTyM9XBY/view?usp=sharing
 
----
+
